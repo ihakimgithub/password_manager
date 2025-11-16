@@ -197,7 +197,7 @@ await db.delete('passwords', where: 'id = ?', whereArgs: [id]);
 - ✅ Data persistence
 - ✅ SESUAI dengan requirement tugas
 
-**Author:** Flutter Password Manager  
+**Author:** Irfan Hakim  
 **Technology:** Flutter + SQFlite  
 **Database:** SQLite  
 **Status:** ✅ Complete & Working  
